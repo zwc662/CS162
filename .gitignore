@@ -40,3 +40,10 @@ hw0/fixit/uniq
 hw0/wc/wc
 hw0/words/words
 !hw0/words/wc_sort.o
+
+# HW1
+hw1/pthread
+hw1/words
+hw1/lwords
+hw1/pwords
+hw1/fwords
